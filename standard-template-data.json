@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-11-13T03:38:53.687436867Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-11-16T13:55:16.000246138Z",
     "templateType": "trip_a",
     "propertyId": "1e2e7a79-e9de-4a38-b05b-0c27375e3a62",
     "homepageId": "01a19ef3-9d52-783a-9c3d-c513ad068dc2"
@@ -22,12 +22,12 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 연락 필수",
-    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 연락 필수\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n\n[공용바베큐]\n- 이용 객실: 301,302,303\n- 바베큐 형태: 숯불\n- 이용 요금: 2인 20,000원 / 4인 25,000원 (1박기준/현장결제)\n- 신청 시간: ~20:30\n- 이용 시간: ~23:00\n- 우천 시: 이용 불가\n- 동계 시: 이용 가능\n\n[개별바베큐]\n- 이용 객실: 201,202,204,203\n- 바베큐 형태: 숯불\n- 이용 요금: 2인 20,000원 / 4인 25,000원 (1박기준/현장결제)\n- 신청 시간: ~20:30\n- 이용 시간: ~23:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n- 강풍 시: 이용 불가\n※ 돌풍, 태풍 시 이용 불가\n\n[개별수영장]\n- 이용 객실: 203\n- 운영 기간: 25.04.19~25.10.31\n- 이용 요금: 미온수 80,000원 / 냉수 무료 (1박기준/현장결제)\n- 이용 시간: 15:00~22:00\n- 이용 복장: 수영복\n※ 온도: 미온수 30℃ 이상\n\n[부대시설]\n- 1층 카페\n\n[편의 및 주변 시설]\n- 마트 및 편의점: CU, 세븐일레븐 도보1분 / 하나로 마트 차량10분\n- 배달 가능 음식: 치킨,피자,보쌈\n\n[주차장]\n- 주차장 보유\n- 주차 대수: 총 20대까지 가능\n\n[교통편]\n[승용차 이용 시]\n※ 네비게이션에 아래 주소 중 하나를 검색해주세요.\n- 지번 주소 : 충남 보령시 웅천읍 관당리 797-14\n- 도로명 주소 : 충남 보령시 웅천읍 열린바다2길 12\n\n[대중교통 이용 시]\n대천역 정류장 > 대천역 정류장(900,100,101,102) 탑승 > 메이컬센터 정류장 하차 및 환승(403-1) > 무창포해수욕장 정류장 하차 > 도보 229m 이동(약 3분) > 보령 리하우스 펜션 도착\n\n보령종합터미널 >보령종합터미널 정류장(900,100,101,102) 탑승 > 보령요양병언 정류장 하차 및 메디컬센터 정류장(403-1) 승차 > 무창포해수욕장 정류장 하차 > 도보 229m 이동(약 3분) > 보령 리하우스 펜션 도착",
+    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 연락 필수\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 10,000원, 유아 1인 10,000원\n(1박기준/현장결제)\n\n[공용바베큐]\n- 이용 객실: 301,302,303\n- 바베큐 형태: 숯불\n- 이용 요금: 2인 20,000원 / 4인 25,000원 (1박기준/현장결제)\n- 신청 시간: ~20:30\n- 이용 시간: ~23:00\n- 우천 시: 이용 불가\n- 동계 시: 이용 가능\n\n[개별바베큐]\n- 이용 객실: 201,202,204,203\n- 바베큐 형태: 숯불\n- 이용 요금: 2인 20,000원 / 4인 25,000원 (1박기준/현장결제)\n- 신청 시간: ~20:30\n- 이용 시간: ~23:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n- 강풍 시: 이용 불가\n※ 돌풍, 태풍 시 이용 불가\n\n[개별수영장]\n- 이용 객실: 203\n- 운영 기간: 25.04.19~25.10.31\n- 이용 요금: 미온수 80,000원 / 냉수 무료 (1박기준/현장결제)\n- 이용 시간: 15:00~22:00\n- 이용 복장: 수영복\n※ 온도: 미온수 30℃ 이상\n\n[부대시설]\n- 1층 카페\n\n[편의 및 주변 시설]\n- 마트 및 편의점: CU, 세븐일레븐 도보1분 / 하나로 마트 차량10분\n- 배달 가능 음식: 치킨,피자,보쌈\n\n[주차장]\n- 주차장 보유\n- 주차 대수: 총 20대까지 가능\n\n[교통편]\n[승용차 이용 시]\n※ 네비게이션에 아래 주소 중 하나를 검색해주세요.\n- 지번 주소 : 충남 보령시 웅천읍 관당리 797-14\n- 도로명 주소 : 충남 보령시 웅천읍 열린바다2길 12\n\n[대중교통 이용 시]\n대천역 정류장 > 대천역 정류장(900,100,101,102) 탑승 > 메이컬센터 정류장 하차 및 환승(403-1) > 무창포해수욕장 정류장 하차 > 도보 229m 이동(약 3분) > 보령 리하우스 펜션 도착\n\n보령종합터미널 >보령종합터미널 정류장(900,100,101,102) 탑승 > 보령요양병언 정류장 하차 및 메디컬센터 정류장(403-1) 승차 > 무창포해수욕장 정류장 하차 > 도보 229m 이동(약 3분) > 보령 리하우스 펜션 도착",
     "reservationGuide": "",
     "province": "도/시",
     "city": "시/군/구",
     "domain": "yuhouse.kr",
-    "realtimeBookingId": "",
+    "realtimeBookingId": "https://m.booking.naver.com/booking/3/bizes/1086426?area=bmp&lang=ko&map-search=1&service-target=map-pc&theme=place",
     "ybsId": "71746",
     "tripPropertyId": "4632",
     "partnerType": "distributor_b",
@@ -490,7 +490,7 @@
           {
             "id": "2a529da5-8251-47f6-aec5-a75fe1f5d129",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/23/Wi3pNFJqv6at.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -500,7 +500,7 @@
           {
             "id": "0ec91d07-99ce-4c0b-bf58-e7e900fa8cfb",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/23/3LFxYAi6Q9Un.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -508,7 +508,7 @@
           {
             "id": "bf7a1759-e9fc-451d-aa83-13dcd5dd1c5b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/23/K0vkzeHNZVFf.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -516,7 +516,7 @@
           {
             "id": "faf01a5f-7e71-4d76-b29a-15025a258cc1",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/23/wSmBJN4lR5Mv.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -524,7 +524,7 @@
           {
             "id": "e5383ff5-24bb-4b10-b36c-71853a312cfa",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/23/jON9WvFMgJSH.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -532,7 +532,7 @@
           {
             "id": "3031066a-0d5d-4b7f-a62f-ace64b987fe6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/23/FTqQAUBs67m2.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -540,7 +540,7 @@
           {
             "id": "e51797e0-3cc3-41ff-a8e5-058409d41456",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/23/ni3w4bNJjpyt.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -548,7 +548,7 @@
           {
             "id": "693a1605-41a8-4524-9a4c-5318693bf5ca",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/23/ScrR7dxDC0Gy.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -556,7 +556,7 @@
           {
             "id": "3aa26be9-0440-4644-99c0-07d968f6a509",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/23/aEVcZkjFrAOw.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -564,7 +564,7 @@
           {
             "id": "d2a01f68-ae30-490e-8f56-c64182338c41",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/23/jALCacNsEDZi.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -3630,8 +3630,7 @@
       ],
       "footer": {
         "ruralStayMark": null,
-        "ruralStayMarks": [ ],
-        "partnerPhoneExposed": true
+        "ruralStayMarks": [ ]
       }
     }
   }
